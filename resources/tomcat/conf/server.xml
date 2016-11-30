@@ -31,5 +31,6 @@
             </Host>
         </Engine>
     </Service>
-
+<application name="helloWorld2" context-root="/helloWorld2" type="war" location="helloWorld2.war"/>
+<application name="helloWorld3" context-root="/helloWorld3" type="war" location="helloWorld3.war"/>
 </Server>
